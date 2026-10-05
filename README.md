@@ -12,7 +12,7 @@ Testes simulados em sistemas reais e ambientes públicos;
 Criar um portfólio técnico bem estruturado para futuras oportunidades profissionais.
 A estrutura do repositório está organizada por massas, cada uma representando sistema/teste diferente:
 
-Poejeto_Sifit_Testes - Casos de Teste, Cenários, Relatórios de Bugs e Evidências.
+Projeto_Sifit_Testes - Casos de Teste, Cenários, Relatórios de Bugs e Evidências.
 
 
 Site para a prática Sifit - Gestão de Academias (https://sifit.centrion.com.br/dashboard).
