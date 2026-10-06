@@ -17,6 +17,8 @@ PRÉ-CONDIÇÕES: As credenciais que foram fornecidas (usuário e senha) devem s
 | CRITÉRIOS DE PROTEÇÃO |
 | O redirecionamento para o Dashboard deve ocorrer corretamente |
 
+https://jam.dev/c/1e120f94-9ce7-4939-a2f9-55b7502b01d4
+
 
 CASO DE TESTE 02 : TENTATIVA DE LOGI COM SENHA INCORRETA.
 
@@ -33,4 +35,6 @@ PRÉ-CONDIÇÕES: O usuário "marcelo_zandonadi" não deve existir no sistema.
 
 | CRITÉRIOS DE PROTEÇÃO |
 | A mensagem de erro "Nome de usuário e senha não correspondem" deve ser exibida |
+
+https://jam.dev/c/41b94e88-7e09-42aa-9a6b-e14865fa4cb1
 
