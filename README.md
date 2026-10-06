@@ -15,6 +15,6 @@ A estrutura do repositório está organizada por massas, cada uma representando 
 Projeto_Sifit_Testes - Casos de Teste, Cenários, Relatórios de Bugs e Evidências.
 
 
-Site para a prática Sifit - Gestão de Academias (https://sifit.centrion.com.br/dashboard).
+Site para a prática Sifit - Sistema Para Academias (https://sifit.centrion.com.br/dashboard).
 
 
