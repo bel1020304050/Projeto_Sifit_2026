@@ -13,3 +13,16 @@ PRÉ-CONDIÇÕES: As credenciais que foram fornecidas (usuário e senha) devem s
 | E preenchemos "12345678" no campo senha |
 | QUANDO clicarmos no botão "Entrar" |
 | ENTÃO seremos redirecionados para o Dashboard do sistema |
+
+| CRITÉRIOS DE PROTEÇÃO |
+| O redirecionamento para o Dashboard deve ocorrer corretamente |
+
+
+CASO DE TESTE 02 : TENTATIVA DE LOGI COM SENHA INCORRETA.
+
+C01-CT02 - O login falhará quando a senha for inválida.
+
+PRÉ-CONDIÇÕES: O usuário "marcelo_zandonadi" não deve existir no sistema.
+
+| PASSOS |
+
