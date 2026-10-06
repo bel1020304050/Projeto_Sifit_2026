@@ -29,8 +29,8 @@ PRÉ-CONDIÇÕES: O usuário "marcelo_zandonadi" não deve existir no sistema.
 | E preenchemos "marcelo_zandonadi" no campo login |
 | E preenchemos "senhaerrada" no campo senha |
 | QUANDO clicarmos no botão "Login" |
-| ENTÃO uma mensagem de erro "Senha incorreta" será exibida |
+| ENTÃO uma mensagem de erro "Nome de usuário e senha não correpondem" será exibida |
 
 | CRITÉRIOS DE PROTEÇÃO |
-| A mensagem de erro "Senha incorreta" deve ser exibida |
+| A mensagem de erro "Nome de usuário e senha não correspondem" deve ser exibida |
 
