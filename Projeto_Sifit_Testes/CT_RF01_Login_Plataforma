@@ -37,7 +37,7 @@ C01-CT02 - O login falhará quando a senha for inválida.
 | DADO que estamos na página de login do Sifit |
 | E preenchemos "marcelo_zandonadi" no campo login |
 | E preenchemos "senhaerrada" no campo senha |
-| QUANDO clicarmos no botão "Login" |
+| QUANDO clicarmos no botão "Login" | 
 | ENTÃO uma mensagem de erro "Nome de usuário e senha não correpondem" será exibida |
 
 | CRITÉRIOS DE PROTEÇÃO |
