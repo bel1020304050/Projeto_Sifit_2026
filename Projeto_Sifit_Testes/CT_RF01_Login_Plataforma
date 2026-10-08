@@ -6,7 +6,7 @@ C01-CT01 - O login será realizado com um nome de usuário e uma senha válida.
 
  |PRÉ-CONDIÇÕES |
 | --- |
- | As credenciais que foram fornecidas (usuário e senha) devem ser válidas (corretas). |
+| As credenciais que foram fornecidas (usuário e senha) devem ser válidas (corretas). |
 
 | PASSOS |
 | --- |
@@ -17,6 +17,7 @@ C01-CT01 - O login será realizado com um nome de usuário e uma senha válida.
 | ENTÃO seremos redirecionados para o Dashboard do sistema |
 
 | ID | CRITÉRIOS DE PROTEÇÃO |
+| --- |
 | O redirecionamento para o Dashboard deve ocorrer corretamente |
 
 https://jam.dev/c/41951768-2961-4427-8197-95fb78d13b1f 
@@ -27,7 +28,9 @@ CASO DE TESTE 02 : TENTATIVA DE LOGI COM SENHA INCORRETA.
 
 C01-CT02 - O login falhará quando a senha for inválida.
 
-PRÉ-CONDIÇÕES: O usuário "marcelo_zandonadi" não deve existir no sistema.
+ |PRÉ-CONDIÇÕES | 
+| --- |
+| O usuário "marcelo_zandonadi" não deve existir no sistema. |
 
 | PASSOS |
 | --- |
@@ -38,6 +41,7 @@ PRÉ-CONDIÇÕES: O usuário "marcelo_zandonadi" não deve existir no sistema.
 | ENTÃO uma mensagem de erro "Nome de usuário e senha não correpondem" será exibida |
 
 | CRITÉRIOS DE PROTEÇÃO |
+| --- |
 | A mensagem de erro "Nome de usuário e senha não correspondem" deve ser exibida |
 
 https://jam.dev/c/41b94e88-7e09-42aa-9a6b-e14865fa4cb1
