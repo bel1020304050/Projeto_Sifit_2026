@@ -23,7 +23,6 @@ Caso de Teste 01: ACESSO AO DASHBOARD APÓS LOGIN BEM SUCESSO.
 https://jam.dev/c/50a641f3-9d77-46e7-8a0f-4d44565c9a6b
 
 
-
 Caso de Teste 02: Verificação da exibição dos widgets do Dashboard
 
 | ID | DESCRIÇÃO |
