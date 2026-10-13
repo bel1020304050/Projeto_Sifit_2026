@@ -8,7 +8,7 @@ Caso de Teste 01: ADICIONE NOVO FORNECEDOR COM DADOS VÁLIDOS.
 
 | PRÉ-CONDIÇÕES |
 | --- |
-| O usuário deve estar logado e ter acesso ao sistema |
+| O fornecedor deve estar logado e ter acesso ao sistema |
 
 | PASSOS |
 | --- |
