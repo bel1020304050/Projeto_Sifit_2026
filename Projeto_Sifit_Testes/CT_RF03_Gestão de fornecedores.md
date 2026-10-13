@@ -22,3 +22,5 @@ Caso de Teste 01: ADICIONE NOVO FORNECEDOR FÍSICO COM DADOS VÁLIDOS.
 | E apresentar uma confirmação de sucesso. |
 | E exibir o fornecedor cadastrado na listagem. |
 
+| CRITÉRIOS DE PROTEÇÃO |
+| ---- |
