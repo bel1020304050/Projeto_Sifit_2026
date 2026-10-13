@@ -6,7 +6,7 @@ Caso de Teste 01: ACESSO AO DASHBOARD APÓS LOGIN BEM SUCESSO.
  | --- |
 | C02-CT01 | Verifique a exibição correta do Dashboard após fazer login com sucesso. |
 
- |Pré-condições |
+ | PRÉ-CONDIÇÕES |
  | --- |
  |O usuário deve estar autenticado com credenciais válidas. |
 
