@@ -4,7 +4,7 @@ Cado de teste 01 : ACESSO AO CHECK-IN
 | --- |
 | Verificar se a funcionalidade de Check-in no sistema Sifit |
 
-| PRÉ-REQUISITOS |
+| PRÉ CONDIÇÕES |
 | --- |
 | Acessar o sistema SIFIT com um usuário autorizado para testes. |
 
