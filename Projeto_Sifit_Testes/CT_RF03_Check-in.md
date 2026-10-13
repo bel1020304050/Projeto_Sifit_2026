@@ -12,4 +12,7 @@ Cado de teste 01 : ACESSO AO CHECK-IN
 | --- |
 | ACESSAR o site Sifit. |
 | REALIZAR  o login no sistema. |
-| 
+| ACESSAR o Dasboard. |
+| LOCALIZAR as funcionalidade de check-in. |
+| CLICAR na opção de check-in caso esteja disponível.|
+| VERIFICAR o comportamento apresentado pelo sistema.| 
