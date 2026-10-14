@@ -11,4 +11,12 @@ Caso de teste 1 : CONSULTAR PRESENÇAS
 |  O usuário deve estar autenticado no sistema SIFIT. |
 
 | PASSOS |
+| --- |
+| ACESSAR o site Sifit. |
+| REALIZAR o login no sistema.|
+| ACESSAR o Dasboard. |
+| LOCALIZAR e CLICAR no menu "Presenças". |
+| VERIFICAR se a página é exibida de forma correta. |
+| OBSERVAR os registros e as informações apresentados na tela. |
+| VERIFICAR se as opções disponíveis no menu estão funcionando de forma correta. |
 
