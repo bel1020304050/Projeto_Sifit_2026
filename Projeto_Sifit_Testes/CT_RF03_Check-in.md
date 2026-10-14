@@ -17,8 +17,8 @@ Cado de teste 01 : ACESSO AO CHECK-IN
 | CLICAR na opção de check-in caso esteja disponível.|
 | VERIFICAR o comportamento apresentado pelo sistema.| 
 
-| RESULTADO ESPERADO |
+| CRITÉRIOS DE PROTEÇÃO |
 | --- |
-| O sistema deve permitir o acesso à funcionalidade de Check-in u apresentar uma mensagem informando o motivo pelo qual a operação não pode ser realizada. |
+| O sistema deve permitir o acesso à funcionalidade de Check-in ou apresentar uma mensagem informando o motivo pelo qual a operação não pode ser realizada. |
 
 https://jam.dev/c/f9537ee8-b5b5-4004-aef2-2465d5890aad
