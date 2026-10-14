@@ -1,1 +1,14 @@
+Caso de teste 1 : CONSULTAR PRESENÇAS
+
+
+| ID | DESCRIÇÃO |
+| --- |
+|  Verificar se o menu Presenças permite visualizar e consultar os registros de presença dos alunos no sistema SIFIT.  | 
+
+
+| PRÉ-CONDIÇÕES |
+| --- |
+|  O usuário deve estar autenticado no sistema SIFIT. |
+
+| PASSOS |
 
