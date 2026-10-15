@@ -14,4 +14,10 @@ Caso de teste 01 : CONSULTAR AULAS
 | REALIZAR o login no sistema. |
 | ACESSAR  o menu SIFITBOX. |
 
+| CRITÉRIOS DE PROTEÇÃO |
+| --- |
+| O sistema deve permitir acessar este menu e exibir as informações disponíveis. |
+
+https://jam.dev/c/daae716e-6dec-4d45-89b4-7af4cc54d8ce
+
 
