@@ -3,7 +3,7 @@ Caso de teste 1 : CONSULTAR PRESENÇAS
 
 | ID | DESCRIÇÃO |
 | --- |
-|  Verificar se o menu Presenças permite visualizar e consultar os registros de presença dos alunos no sistema SIFIT.  | 
+| C01 - CT01|  Verificar se o menu Presenças permite visualizar e consultar os registros de presença dos alunos no sistema SIFIT.  | 
 
 
 | PRÉ-CONDIÇÕES |
