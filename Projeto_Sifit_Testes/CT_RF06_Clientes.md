@@ -8,6 +8,10 @@ Caso de teste 01 : CONSULTAR CLIENTES
 | --- |
 | O usuário deve estar autenticado no sistema SIFIT. |
 
+| PRÉ-CONDIÇÕES |
+| --- |
+| O usuário deve possuir permissão para acessar o menu Clientes. |
+
 | PASSOS |
 | --- |
 | ACESSAR o sistema Sifit. |
