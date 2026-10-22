@@ -1,8 +1,10 @@
-CASO DE TESTE 01 : ACESSO AO CHECK-IN
+CENAÁRIO 03 : ACESSO AO CHECK-IN
+
+CASO DE TESET 01: VERIFICAR A FUNCIONALIDADE DE CHECK-IN
  
 | ID | DESCRIÇÃO |
 | --- |
-| C01 - CT01| Verificar se a funcionalidade de Check-in no sistema Sifit |
+| C01 - CT01| Verificar se a funcionalidade de Check-in está disponível o sistema. |
 
 | PRÉ CONDIÇÕES |
 | --- |
