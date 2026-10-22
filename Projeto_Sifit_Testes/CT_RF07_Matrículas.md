@@ -1,4 +1,4 @@
-Caso de Teste 01: ACESSAR O MENU MATRÍCULAS
+CASO DE TESTE 01: ACESSAR O MENU MATRÍCULAS
 
 | ID | DESCRIÇÃO |
 | C01-CT01 | Verificar se o menu Matrículas permite acessar e consultar as matrículas cadastradas no sistema SIFIT. |
