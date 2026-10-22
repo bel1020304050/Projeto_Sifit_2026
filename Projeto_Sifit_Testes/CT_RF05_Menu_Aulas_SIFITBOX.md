@@ -1,4 +1,4 @@
-Caso de teste 01 : CONSULTAR AULAS
+CASO DE TESTE 01: CONSULTAR AULAS
 
 | ID | DESCRIÇÃO |
 | --- |
