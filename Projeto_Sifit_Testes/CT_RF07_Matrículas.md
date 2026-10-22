@@ -19,4 +19,4 @@ Caso de Teste 01: ACESSAR O MENU MATRÍCULAS
 
 | PRÉ-CONDIÇÕES |
 | --- |
-| O sistema deve abrir o menu Matrículas corretamente e apresentar as informações disponíveis, permitindo ao usuário consultar os dados das matrículas conforme as funcionalidades implementadas. |
+| O sistema deve abrir o menu Matrículas corretamente e apresentar as informações disponíveis, permitindo ao usuário consultar os dados das matrículas conforme as funcionalidades implementadas. | 
