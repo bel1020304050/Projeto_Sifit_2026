@@ -23,3 +23,4 @@ Caso de teste 01 : CONSULTAR CLIENTES
 | O sistema deve permitir acessar o menu Clientes e exibir corretamente os dados dos clientes cadastrados,possibilitando a consulta das informações disponíveis. |
 
 
+https://jam.dev/c/923c952d-da11-4a45-b9cf-eaa8aa3e6e1f
