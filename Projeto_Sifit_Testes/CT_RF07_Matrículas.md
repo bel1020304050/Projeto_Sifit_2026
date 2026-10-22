@@ -7,6 +7,8 @@ Caso de Teste 01: ACESSAR O MENU MATRÍCULAS
 | --- |
 | O usuário deve estar autenticado no sistema SIFIT. |
 
+
+
 | PASSOS |
 | --- |
 | ACESSAR o site SIFIT. |
@@ -17,6 +19,6 @@ Caso de Teste 01: ACESSAR O MENU MATRÍCULAS
 | OBSERVAR as informações apresentadas na tela. |
 | VERIFICAR se existem opções de pesquisa, consulta ou outras funcionalidades disponíveis. |
 
-| PRÉ-CONDIÇÕES |
+| CRITÉRIOS DE PROTEÇÃO |
 | --- |
 | O sistema deve abrir o menu Matrículas corretamente e apresentar as informações disponíveis, permitindo ao usuário consultar os dados das matrículas conforme as funcionalidades implementadas. | 
