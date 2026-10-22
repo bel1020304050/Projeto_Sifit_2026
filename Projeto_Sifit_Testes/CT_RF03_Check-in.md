@@ -1,4 +1,4 @@
-Cado de teste 01 : ACESSO AO CHECK-IN
+CASO DE TESTE 01 : ACESSO AO CHECK-IN
 
 | ID | DESCRIÇÃO |
 | --- |
