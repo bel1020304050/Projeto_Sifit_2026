@@ -7,7 +7,11 @@ Caso de Teste 01: ACESSAR O MENU MATRÍCULAS
 | --- |
 | O usuário deve estar autenticado no sistema SIFIT. |
 
-
+| PRÉ-CONDIÇÕES |
+| --- |
+| O usuário deve possuir login no sistema SIFIT. |
+| O usuário deve estar autenticado (logado) no sistema. |
+| O usuário deve possuir permissão de acesso ao menu Matrículas. |
 
 | PASSOS |
 | --- |
