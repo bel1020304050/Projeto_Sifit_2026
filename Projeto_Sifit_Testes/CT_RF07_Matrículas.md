@@ -1,1 +1,4 @@
-Caso de Teste 01 
+Caso de Teste 01: ACESSAR O MENU MATRÍCULAS
+
+| ID | DESCRIÇÃO |
+
