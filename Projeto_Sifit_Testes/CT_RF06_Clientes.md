@@ -21,3 +21,5 @@ Caso de teste 01 : CONSULTAR CLIENTES
 | CRITÉRIOS DE PROTEÇÃO |
 | --- |
 | O sistema deve permitir acessar o menu Clientes e exibir corretamente os dados dos clientes cadastrados,possibilitando a consulta das informações disponíveis. |
+
+
