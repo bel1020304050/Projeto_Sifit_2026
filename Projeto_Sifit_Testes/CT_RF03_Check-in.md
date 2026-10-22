@@ -1,5 +1,5 @@
 CASO DE TESTE 01 : ACESSO AO CHECK-IN
-
+ 
 | ID | DESCRIÇÃO |
 | --- |
 | C01 - CT01| Verificar se a funcionalidade de Check-in no sistema Sifit |
