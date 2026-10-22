@@ -1,4 +1,4 @@
-Cenário 02: Acesso e visualização do Dashboard
+Cenário 02: ACESSO E VISUALIZAÇÃO DO DASHBOARD
 
 Caso de Teste 01: ACESSO AO DASHBOARD APÓS LOGIN BEM SUCESSO.
 
