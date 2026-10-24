@@ -26,6 +26,5 @@ CASO DE TESTE 01: ACESSAR E CONSULTAR MENU AVALIAÇÕES
 | --- |
 | O sistema deve permitir o acesso ao menu Avaliações e apresentar corretamente as informações disponíveis, possibilitando a consulta das avaliações conforme as funcionalidades implementadas. |
 
-https://jam.dev/c/f8c0fd94-bd66-435b-8c9f-995b70a8429c
-
+https://jam.dev/c/cec75456-a189-4612-ab6b-6bb644c9b6de
 
