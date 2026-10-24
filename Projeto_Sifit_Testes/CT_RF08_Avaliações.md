@@ -22,3 +22,8 @@ CASO DE TESTE 01: ACESSAR E CONSULTAR MENU AVALIAÇÕES
 | VERIFICAR e existem opções de consulta, pesquisa ou visualização das avaliações. |
 
 
+| CRITÉRIOS DE PROTEÇÃO |
+| --- |
+| O sistema deve permitir o acesso ao menu Avaliações e apresentar corretamente as informações disponíveis, possibilitando a consulta das avaliações conforme as funcionalidades implementadas. |
+
+
