@@ -14,7 +14,7 @@ CASO DE TESTE 01: ACESSAR E CONSULTAR MENU CONTAS A RECEBER
 | --- |
 | ACESSAR o site SIFIT. |
 | REALIZAR o login no sistema. |
-| ACESSAR o Dashboard. |
+| ACESSAR o Dashboard. | 
 | LOCALIZAR e CLICAR no menu Contas a Receber. |
 | VERIFICAR se a página de Contas a Receber é exibida corretamente. |
 | OBSERVAR as informações apresentadas na tela. | 
