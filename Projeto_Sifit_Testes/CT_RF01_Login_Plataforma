@@ -30,10 +30,10 @@ CASO DE TESTE 02 : TENTATIVA DE LOGI COM SENHA INCORRETA.
 C01-CT02 - O login falhará quando a senha for inválida.
 
  |PRÉ-CONDIÇÕES | 
-| --- |
+| --- | 
 | O usuário "marcelo_zandonadi" não deve existir no sistema. |
 
-| PASSOS |
+| PASSOS | 
 | --- |
 | DADO que estamos na página de login do Sifit |
 | E preenchemos "marcelo_zandonadi" no campo login |
