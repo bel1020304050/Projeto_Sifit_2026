@@ -21,3 +21,6 @@ CASO DE TESTE 01: ACESSAR E CONSULTAR MENU CONTAS A RECEBER
 | VERIFICAR se existem opções de consulta ou visualização das contas a receber. |
 
 
+https://jam.dev/c/6c30e91b-eb20-4ec0-aa85-88e72cac9da3
+
+
