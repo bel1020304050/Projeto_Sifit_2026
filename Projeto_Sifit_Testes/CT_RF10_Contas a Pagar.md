@@ -4,7 +4,7 @@ CASO DE TESTE 01: ACESSAR E CONSULTAR MENU CONTAS A PAGAR
 
 | ID | DESCRIÇÃO |
 | --- |
-| CT01-CTF01 | Verificar se o menu Contas a Pagar permite acessar e consultar as informações financeiras disponíveis no sistema SIFIT. |
+| C01-CTF01 | Verificar se o menu Contas a Pagar permite acessar e consultar as informações financeiras disponíveis no sistema SIFIT. |
 
 
 | PRÉ-CONDIÇÕES |
