@@ -22,3 +22,5 @@ CASO DE TESTE 01: ACESSAE E CONSULTAR MENU FICHAS DE TREINO
 | CRITÉRIOS DE PROTEÇÃO |
 | --- |
 | O sistema deve permitir o acesso ao menu Fichas de Treino e apresentar corretamente as informações disponíveis, possibilitando a consulta conforme as   funcionalidades implementadas. |
+
+https://jam.dev/c/606ea2cb-9361-4152-afbd-e67a9bab5f95
