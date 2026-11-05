@@ -1,6 +1,6 @@
  CENÁRIO 15: GRUPOS
 
- CASO DE TESTE 01: ACESSAR E CONSULTAR MENU GRUPOS
+ CASO DE TESTE 01: ACESSAR E CONSULTAR MENU GRUPOS DE TREINO
 
 | ID        | DESCRIÇÃO                                                                                                      |
 | --------- | -------------------------------------------------------------------------------------------------------------- |
