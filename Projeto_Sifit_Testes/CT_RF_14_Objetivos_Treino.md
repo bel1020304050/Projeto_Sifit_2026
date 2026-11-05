@@ -25,5 +25,4 @@
 | O sistema deve permitir o acesso ao menu Objetivos de Treino e apresentar corretamente as informações disponíveis, possibilitando a consulta conforme as funcionalidades implementadas. |
 
 
-  https://jam.dev/c/3f0c9b76-149f-4acf-b5b8-3841a657dda2
-
+https://jam.dev/c/3f0c9b76-149f-4acf-b5b8-3841a657dda2
