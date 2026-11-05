@@ -2,8 +2,8 @@ CENÁRIO 06: CONSULTAR CLIENTES
 
 CASO DE TESTE 01: VISUALIZAR E CONSULTAR O MENU CLIENTES
 
-| ID | DESCRIÇÃO |
-| --- |
+| ID |       DESCRIÇÃO                                                                                              |
+| ----- | --------------------------------------------------------------------------------------------------------- |
 | C01-CT01 | Verificar se o menu Clientes permite visualizar e consultar os clientes cadastrados no sistema SIFIT. |
 
 | PRÉ-REQUISITOS |
