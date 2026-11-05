@@ -2,7 +2,8 @@ CENÁRIO 07: MENU MATRÍCULAS
 
 CASO DE TESTE 01: ACESSAR E CONSULTAR 
 
-| ID | DESCRIÇÃO |
+| ID |         DESCRIÇÃO                                                                                              |
+| ----- | -----------------------------------------------------------------------------------------------------------|
 | C01-CT01 | Verificar se o menu Matrículas permite acessar e consultar as matrículas cadastradas no sistema SIFIT. |
 
 | PRÉ-REQUISIOS |
