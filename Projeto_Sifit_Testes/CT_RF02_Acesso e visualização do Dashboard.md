@@ -2,8 +2,8 @@ Cenário 02: ACESSO E VISUALIZAÇÃO DO DASHBOARD
 
 Caso de Teste 01: ACESSO AO DASHBOARD APÓS LOGIN BEM SUCESSO.
 
- | ID | DESCRIÇÃO | 
- | --- |
+ | ID |       DESCRIÇÃO                                                              | 
+ | ----- | -------------------------------------------------------------------------- |
 | C02-CT01 | Verifique a exibição correta do Dashboard após fazer login com sucesso. |
 
  | PRÉ-CONDIÇÕES |
