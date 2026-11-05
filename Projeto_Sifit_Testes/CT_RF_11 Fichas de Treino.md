@@ -2,7 +2,8 @@ CENÁRIO 11: FICHAS DE TREINO
 
 CASO DE TESTE 01: ACESSAE E CONSULTAR MENU FICHAS DE TREINO
  
-| ID | DESCRIÇÃO |
+| ID |        DESCRIÇÃO                                                                                                      |
+| ----- |  ---------------------------------------------------------------------------------------------------------------- |
 | C01-CT01 | Verificar se o menu Fichas de Treino permite acessar e consultar as fichas de treino disponíveis no sistema SIFIT. | 
 
 | PRÉ-CONDIÇÕES |
