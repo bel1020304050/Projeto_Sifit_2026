@@ -2,7 +2,7 @@
 
  CASO DE TESTE 01: ACESSAR E CONSULTAR MENU EXERCÍCIOS
 
-| ID        | DESCRIÇÃO                                                                                                           |
+| ID        | DESCRIÇÃO                                                                                                            |
 | --------- | ------------------------------------------------------------------------------------------------------------------- | 
 | CT01-CT01 | Verificar se o menu Exercícios permite acessar e consultar os exercícios disponíveis no sistema SIFIT. |
 
