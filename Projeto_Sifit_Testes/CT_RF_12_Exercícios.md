@@ -23,3 +23,7 @@
 | CRITÉRIOS DE PROTEÇÃO |
 |---|
 | O sistema deve permitir o acesso ao menu Exercícios e apresentar corretamente as informações disponíveis, possibilitando a consulta conforme as funcionalidades implementadas. |
+
+
+
+https://jam.dev/c/0d9f904f-42d0-4a90-985c-9cfc29a61309
