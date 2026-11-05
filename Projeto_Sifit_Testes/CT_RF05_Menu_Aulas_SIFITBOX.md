@@ -2,8 +2,8 @@ CENÁRIO 05: ACESSAR O MENU AULAS
 
 CASO DE TESTE 01: CONSULTAR AULAS
 
-| ID | DESCRIÇÃO |
-| --- |
+| ID |      DESCRIÇÃO                                                                                     |
+| ----- | ----------------------------------------------------------------------------------------------- |
 | C01 - CT01 | Verificar se o menu Aulas do SIFITBOX permite visualizar  as aulas cadastradas no sistema. |
 
 | PRÉ-CONDIÇÕES |
