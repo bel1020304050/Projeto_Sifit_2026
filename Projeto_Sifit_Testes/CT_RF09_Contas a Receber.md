@@ -2,8 +2,8 @@ CENÁRIO 09: CONTAS A RECEBER
 
 CASO DE TESTE 01: ACESSAR E CONSULTAR MENU CONTAS A RECEBER
 
-| ID | DESCRIÇÃO |
-| --- |
+| ID |        DESCRIÇÃO                                                                                                               |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------- |
 | C01-CT01 | Verificar se o menu Contas a Receber permite acessar e consultar as informações financeiras disponíveis no sistema SIFIT. |
 
 | PRÉ-CONDIÇÕES |
