@@ -24,3 +24,5 @@
 |---|
 | O sistema deve permitir o acesso ao menu Grupos Musculares e apresentar corretamente as informações disponíveis, possibilitando a consulta conforme as funcionalidades implementadas. |
 
+https://jam.dev/c/4689d6d0-3b3c-443c-ab57-dffb9d84f886
+
