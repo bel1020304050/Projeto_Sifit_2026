@@ -6,7 +6,7 @@
 | --------- | ----------------------------------------------------------------------------------------------------------------------- |
 | CT01-CT01 | Verificar se o menu Relatórios permite acessar e consultar os relatórios disponíveis no sistema SIFIT. |
 
-| PRÉ-CONDIÇÕES |
+| PRÉ-CONDIÇÕES | 
 |---|
 | O usuário deve estar autenticado no sistema SIFIT e possuir permissão para acessar o menu Relatórios. |
 
