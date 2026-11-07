@@ -1,0 +1,27 @@
+ CENÁRIO 21: DESPESAS FIXAS
+
+ CASO DE TESTE 01: ACESSAR E CONSULTAR MENU DESPESAS FIXAS
+
+| ID        | DESCRIÇÃO                                                                                                                            |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| CT01-CT01 | Verificar se o menu Despesas Fixas permite acessar e consultar as despesas fixas cadastradas no sistema SIFIT. |
+
+| PRÉ-CONDIÇÕES |
+|---|
+| O usuário deve estar autenticado no sistema SIFIT e possuir permissão para acessar o menu Despesas Fixas. |
+
+| PASSOS |
+|---|
+| ACESSAR o site SIFIT. |
+| REALIZAR o login no sistema. |
+| ACESSAR o Dashboard. |
+| LOCALIZAR e CLICAR no menu Despesas Fixas. |
+| VERIFICAR se a página de Despesas Fixas é exibida corretamente. |
+| OBSERVAR as informações apresentadas na tela. |
+| VERIFICAR se existem opções de consulta ou visualização das despesas fixas. |
+
+| CRITÉRIOS DE PROTEÇÃO |
+|---|
+| O sistema deve permitir o acesso ao menu Despesas Fixas e apresentar corretamente as informações disponíveis, possibilitando a consulta conforme as funcionalidades implementadas. |
+
+https://jam.dev/c/f9b9eb22-89d4-4b53-acfa-9183f2daf471
