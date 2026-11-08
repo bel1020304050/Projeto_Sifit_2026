@@ -16,7 +16,7 @@ CASO DE TESTE 01: ACESSAE E CONSULTAR MENU FICHAS DE TREINO
 | REALIZAR o login no sistema. |
 | ACESSAR o Dashboard. |
 | LOCALIZAR e CLICAR no menu Fichas de Treino. |
-| VERIFICAR  de Fichas de Treino é exibida corretamente. |
+| VERIFICAR  se as fichas de treino é exibida corretamente. |
 | OBSERVAR as informações apresentadas na tela. | 
 | VERIFICAR se existem opções de consulta ou visualização das fichas de treino. |
 
