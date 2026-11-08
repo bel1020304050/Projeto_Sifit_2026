@@ -6,7 +6,7 @@
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | CT01-CT01 | Verificar se o menu Despesas Fixas permite acessar e consultar as despesas fixas cadastradas no sistema SIFIT. |
 
-| PRÉ-CONDIÇÕES |
+| PRÉ-CONDIÇÕES | 
 |---|
 | O usuário deve estar autenticado no sistema SIFIT e possuir permissão para acessar o menu Despesas Fixas. |
 
