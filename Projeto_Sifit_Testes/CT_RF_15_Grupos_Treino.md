@@ -1,4 +1,4 @@
- CENÁRIO 15: GRUPOS
+ CENÁRIO 15: GRUPOS 
 
  CASO DE TESTE 01: ACESSAR E CONSULTAR MENU GRUPOS DE TREINO
 
@@ -24,7 +24,7 @@
 |---|
 | O sistema deve permitir o acesso ao menu Grupos e apresentar corretamente as informações disponíveis, possibilitando a consulta conforme as funcionalidades implementadas. |
 
-
+ 
 https://jam.dev/c/975aa563-f378-4f08-b0f6-e9f1650fd9d3
 
 
